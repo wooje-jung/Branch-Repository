@@ -15,7 +15,7 @@ def partition(l, r, nums):
 # for the right values.
  
  
-def quicksort(l, r, nums):
+def quicksort(l, r, nums):dwdwdwdqd
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
         return nums
     if l < r:
