@@ -30,7 +30,7 @@ void merge(int arr[], int l,
 	// Initial index of second subarray
 	j = 0;
 
-	// Initial index of merged subarray
+	// Initial index of merged subardwdwdwdwdwray
 	k = l;
 	while (i < n1 && j < n2)
 	{
